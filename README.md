@@ -1,6 +1,3 @@
-# 2026-1-01-Atividade_Avaliativa
-Atividade avaliativa 2026.1.01 da disciplina de 
-
 # 2026 - ILP - Atividade avaliativa no. 1 do 1o bimestre
 
 ## Informações gerais
