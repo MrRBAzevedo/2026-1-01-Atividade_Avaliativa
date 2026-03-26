@@ -1,0 +1,3 @@
+print('''Meu nome é Fulano.
+Tenho 18 anos.
+Estou no curso de Informática para Internet.''')
